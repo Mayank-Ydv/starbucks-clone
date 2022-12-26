@@ -1,4 +1,4 @@
 # starbucks-clone
 ## Live Preview
 
-[Starbucks_Clone](https://github.com/Mayank-Ydv/starbucks-clone.git)
+[Starbucks_Clone](https://mayank-ydv.github.io/starbucks-clone/)
